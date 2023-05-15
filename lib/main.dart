@@ -19,7 +19,7 @@ class _MyAppState extends State<MyApp> {
       title: 'Material App',
       home: Scaffold(
         appBar: AppBar(
-          backgroundColor: Colors.amber,
+          backgroundColor: Colors.green,
           title: const Center(
               child: Text(
             "Tap Battle Game",
